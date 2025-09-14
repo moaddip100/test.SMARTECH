@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test.SMARTECH/static/css/main.ed611df7.css",
-    "main.js": "/test.SMARTECH/static/js/main.65228756.js",
+    "main.css": "/test.SMARTECH/static/css/main.560c5b42.css",
+    "main.js": "/test.SMARTECH/static/js/main.5cfad627.js",
     "static/media/prevImg.png": "/test.SMARTECH/static/media/prevImg.e5acf68fe61936f7c385.png",
     "static/media/imgCt2.png": "/test.SMARTECH/static/media/imgCt2.58af2259cd4867faf51b.png",
     "static/media/imgCt.png": "/test.SMARTECH/static/media/imgCt.28582f22ea0c506789c7.png",
@@ -13,11 +13,11 @@
     "static/media/LinkedIn.png": "/test.SMARTECH/static/media/LinkedIn.9dd8db014ed902fa757e.png",
     "static/media/Facebook.png": "/test.SMARTECH/static/media/Facebook.a71aa7f10d0f5cb0a1f7.png",
     "index.html": "/test.SMARTECH/index.html",
-    "main.ed611df7.css.map": "/test.SMARTECH/static/css/main.ed611df7.css.map",
-    "main.65228756.js.map": "/test.SMARTECH/static/js/main.65228756.js.map"
+    "main.560c5b42.css.map": "/test.SMARTECH/static/css/main.560c5b42.css.map",
+    "main.5cfad627.js.map": "/test.SMARTECH/static/js/main.5cfad627.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed611df7.css",
-    "static/js/main.65228756.js"
+    "static/css/main.560c5b42.css",
+    "static/js/main.5cfad627.js"
   ]
 }
